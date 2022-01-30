@@ -21,6 +21,6 @@
     },
     "dependencies": {
         "discord-api-types": "^0.26.1",
-        "discord-interactions": "^2.0.2"
+        "discord-interactions": "^2.4.1"
     }
 }
